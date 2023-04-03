@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src=""  width="40%" height="40%">
   <h1>
-  Welcome to our team project
+  Team IT Construct
   </h1>
 </div>
 
