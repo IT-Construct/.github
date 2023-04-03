@@ -37,3 +37,17 @@ Stanley L. Ferguson III
 
 **Our Solution:** 
 
+## IT Construct Repos
+<a href="https://github.com/IT-Construct/Scripts"><img align="left" src="https://thumbs.dreamstime.com/z/script-linear-icon-modern-outline-logo-concept-white-background-programming-collection-suitable-use-web-apps-mobile-133524979.jpg" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
+
+<a href="https://github.com/IT-Construct/Slideshow"><img align="left" src="http://elearningart.com/wp-content/uploads/2016/09/970cafa5-6320-4763-b5ff-69cb81c38d4d_pastedimage0.png" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
+
+<a href="https://github.com/IT-Construct/SOPs"><img align="left" src="https://www.gliffy.com/sites/default/files/image/2021-01/image-blog-standard-operating-process.jpg" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
+
+
+<a href="https://github.com/IT-Construct/Topoligies-Visuals"><img align="left" src="https://cdn.educba.com/academy/wp-content/uploads/2020/02/Logical-Topology.jpg" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
+
+
+<br>[System Selection](https://github.com/IT-Construct/System-Selection)
+<br>[Team Agreement](https://github.com/IT-Construct/Team-Agreement)
+
