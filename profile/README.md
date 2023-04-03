@@ -22,7 +22,7 @@ Nicholas Loiacono
 Jordan Marshall
 </br>
 </br>
-<a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
+<a href="linkedin.com/in/lamin-touray-57b09a264"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Mola2ray"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> 
 Lamin Touray
 </br>
