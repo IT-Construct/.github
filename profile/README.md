@@ -33,7 +33,7 @@ Stanley L. Ferguson III
 </br>
 </br>
 
-**The problem:** 
+**Problem Domain:** 
 
 **Our Solution:** 
 
