@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/jESC-Solutions/.github/blob/main/profile/logo-no-background.png"  width="40%" height="40%">
+  <img src=""  width="40%" height="40%">
   <h1>
   Welcome to our team project
   </h1>
@@ -12,22 +12,22 @@
 John Alfred Canlas Alona
 </br>
 </br>
-<a href="https://www.linkedin.com/in/emilioceja/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Emilio | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/loiaconon/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Emilio | LinkedIn" width="100px"/></a>
 <a href="https://github.com/NicholasLoiacono"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Emilio | GitHub" width="100px"/></a>
 Nicholas Loiacono
 </br>
 </br>
-<a href="https://www.linkedin.com/in/spencymitch/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Spencer | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/jordan-marshall-9663a1254/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Spencer | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Jmarshall25"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Spencer | GitHub" width="100px"/></a>
 Jordan Marshall
 </br>
 </br>
-<a href="linkedin.com/in/lamin-touray-57b09a264"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/lamin-touray-57b09a264"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Mola2ray"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> 
 Lamin Touray
 </br>
 </br>
-<a href="https://www.linkedin.com/in/connieuribe/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/slfiii/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Sfergy3"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Connie | GitHub" width="100px"/></a> 
 Stanley L. Ferguson III
 </br>
