@@ -33,7 +33,7 @@ Stanley L. Ferguson III
 </br>
 </br>
 
-**Problem Domain:<p>Our team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition.</p><p>Our team believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, Our team believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.</p><p>Leadership has concerns about the local network security of the new company, if the acquisition's intranet to going to be joined to GlobeX. You will need to demonstrate implementation of some form of network access control that provides a healthy level of AAA security management.</p>
+**Problem Domain:**<p>Our team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition.</p><p>Our team believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, Our team believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.</p><p>Leadership has concerns about the local network security of the new company, if the acquisition's intranet to going to be joined to GlobeX. You will need to demonstrate implementation of some form of network access control that provides a healthy level of AAA security management.</p>
 
 **Our Solution:** 
 <br>We will demonstrate implementation of network access control that provides a healthy level of AAA security management using:
