@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/IT-Construct/.github/blob/main/profile/1.png"  width="40%" height="40%">
   <h1>
-  Team IT Construct
+  IT Construct
   </h1>
 </div>
 
