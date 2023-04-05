@@ -64,7 +64,7 @@ Stanley L. Ferguson III
 
 <a href="https://github.com/IT-Construct/Topoligies-Visuals"><img align="left" src="https://cdn.educba.com/academy/wp-content/uploads/2020/02/Logical-Topology.jpg" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
 
-<a href="https://github.com/IT-Construct/Topoligies-Visuals"><img align="left" src="https://i.ibb.co/dbhMXHj/2.png" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
+<a href="https://github.com/IT-Construct/System-Selection"><img align="left" src="https://i.ibb.co/dbhMXHj/2.png" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
 
 <a href="https://github.com/IT-Construct/Team-Agreement"><img align="left" src="https://blog.crisp.se/wp-content/uploads/2018/12/WA-Voting-1024x542.png" alt="Automation Scripts | GitHub Repo" width="130px" height="138px"/></a> 
 
