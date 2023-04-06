@@ -35,26 +35,26 @@ Stanley L. Ferguson III
 </br>
 </br>
 
-**Problem Domain:**<p>Our team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition.</p><p>Our team believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, Our team believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.</p><p>Leadership has concerns about the local network security of the new company, if the acquisition's intranet to going to be joined to GlobeX. You will need to demonstrate implementation of some form of network access control that provides a healthy level of AAA security management.</p>
+**Problem Domain:**<p>Your team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition.</p><p>The team believes that trying to integrate the acquisition's existing intranet directly into the rest of GlobeX will result in technical debt. Since the acquisition is still a small startup, the team believes it will be better to simply build out new infrastructure and organization which is in line with the rest GlobeX's holdings.</p><p>Leadership has concerns about the local network security of the new company, if the acquisition's intranet to going to be joined to GlobeX. The team will need to demonstrate implementation of some form of network access control that provides a healthy level of AAA security management.</p>
 
 **Our Solution:** 
 <br>We will demonstrate implementation of network access control that provides a healthy level of AAA security management using:
 - *Trello* -  Management platform 
 
-- *PFSense* as our primary way to keep our new acquisition’s network dedicated and safe (security wise). 
+- *PFSense* - as our primary way to keep our new acquisition’s network dedicated and safe (security wise). 
 
-- *Windows Server 2019* will be deployed as our servers home
+- *Windows Server 2019* - is where our Server Manager is housed, where the Powershell script will be deployed, and where our pfSense settings were edited.
 
-- *Server Manager Application* being the place where we will create our AD forest & server domain.
+- *Server Manager Application* - being the place where we will create our AD forest & server domain.
 
 - *Powershell ISE script* will be deployed to fully stand up all requisite services to: 
-<br>-Make the server into a DC,
-<br>-Assign the Windows Server VM a static IPv4 address and a DNS, -
-<br>-Rename the Windows Server VM, 
-<br>-Install AD-Domain-Services, and create an AD Forest, Organizational Units (OU), and users. 
-<br>-Additionally, the Powershell ISE script will reboot the VM once while continuing to perform its required tasks. Windows 10 VM will be our way to remotely perform server actions and access domain information. 
+<br> - Make the server into a DC.
+<br> - Assign the Windows Server VM a static IPv4 address and a DNS.
+<br> - Rename the Windows Server VM.
+<br> - Install AD-Domain-Services, and create an AD Forest, Organizational Units (OU), and users. 
+<br> - Additionally, the Powershell ISE script will reboot the VM once while continuing to perform its required tasks. Windows 10 VM will be our way to remotely perform server actions and access domain information. 
 
-- GoogleDocs and GitHub will be our resources deployed to maintain our Standard Operating Procedures and any other links that may be associated with our project.
+- *Google Docs* and *GitHub* will be our resources deployed to maintain our Standard Operating Procedures and any other links that may be associated with our project.
 
 ## IT Construct Repos
 <a href="https://github.com/IT-Construct/Scripts"><img align="left" src="https://thumbs.dreamstime.com/z/script-linear-icon-modern-outline-logo-concept-white-background-programming-collection-suitable-use-web-apps-mobile-133524979.jpg" alt="Automation Scripts | GitHub Repo" width="130px"/></a> 
